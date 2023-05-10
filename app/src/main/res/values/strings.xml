@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork-three_three_repeat</string>
+    <string name="nameHint">Name:</string>
+    <string name="surnameHint">Surname:</string>
+    <string name="startButton">Start</string>
+    <string name="passworldEditText">Age:</string>
+</resources>
